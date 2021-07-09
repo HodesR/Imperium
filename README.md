@@ -33,7 +33,7 @@ const Hodes = require("Exitium/Imperium");
 </a>
 
 <p align="center">
-   <img src="https://media.discordapp.net/attachments/855789607349649408/863134217408217088/Naruto.gif">
+   <img src="https://tenor.com/view/pain-naruto-gif-11376079">
 </p>
 
 <p align="center">
