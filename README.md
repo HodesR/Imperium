@@ -1,5 +1,6 @@
-![head.png](https://media.discordapp.net/attachments/855789607349649408/863136763031191633/MOSHED-2021-5-1-1-39-8.gif)
-
+<p align="center">
+<img align='back' src="https://media.discordapp.net/attachments/855789607349649408/863136763031191633/MOSHED-2021-5-1-1-39-8.gif">
+</p>
 <p align="center">
 ─────────────────────────────────────
 </p>
@@ -33,7 +34,7 @@ const Hodes = require("Exitium/Imperium");
 </a>
 
 <p align="center">
-   <img src="https://tenor.com/view/pain-naruto-gif-11376079">
+   <img src="https://cdn.discordapp.com/attachments/791761561332482071/863141745298505788/Cherished_Princess_-_The_Forgotten_Twins.gif">
 </p>
 
 <p align="center">
